@@ -14,6 +14,11 @@
   src: url('resources/RedHatDisplay-Regular.ttf') format('truetype');
 }
 
+@font-face {
+  font-family: 'RedHatDisplay-Medium';
+  src: url('resources/RedHatDisplay-Medium.ttf') format('truetype');
+}
+
 body {
   height: 100vh;
   font-family: 'RedHatDisplay-Bold', serif;
@@ -81,7 +86,7 @@ main > div {
 
 .highlight {
   color: #6b59d0;
-  font-family:;
+  font-family: 'RedHatDisplay-Medium', serif;
 }
 
 @media (min-width: 640px) {
