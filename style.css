@@ -7,16 +7,19 @@
 @font-face {
   font-family: 'RedHatDisplay-Bold';
   src: url('resources/RedHatDisplay-Bold.ttf') format('truetype');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'RedHatDisplay-Regular';
   src: url('resources/RedHatDisplay-Regular.ttf') format('truetype');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'RedHatDisplay-Medium';
   src: url('resources/RedHatDisplay-Medium.ttf') format('truetype');
+  font-display: swap;
 }
 
 body {
