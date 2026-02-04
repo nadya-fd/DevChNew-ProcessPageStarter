@@ -94,11 +94,13 @@ main > div::before {
   border-left: 3px solid #6b59d0;
   margin-left: -21px;
   padding-left: 21px;
+  color: #374151;
 }
 
 .text {
   margin-top: 20px;
   font-family: 'RedHatDisplay-Regular', serif;
+  color: #6b7280;
 }
 
 .highlight {
