@@ -102,7 +102,6 @@ main > div::before {
   font-family: 'RedHatDisplay-Regular', serif;
   color: #6b7280;
   line-height: 150%;
-  letter-spacing: 5%;
 }
 
 .highlight {
